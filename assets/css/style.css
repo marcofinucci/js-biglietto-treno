@@ -9,5 +9,6 @@ body {
 
 .site-main {
     margin: 2rem auto;
+    padding: 0 2rem;
     max-width: 900px;
 }
